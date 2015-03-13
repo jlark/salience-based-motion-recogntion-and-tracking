@@ -1,0 +1,1 @@
+The project will use the OpenCV GPL to produce motion tracking and recognizing applications which can later be integrated with external control mechanisms. Possibly using Intel IPL libraries to increase performance.
